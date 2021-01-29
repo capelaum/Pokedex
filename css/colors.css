@@ -1,0 +1,118 @@
+:root {
+  --body-bg: #1E1E1E;
+  --body-color: #E1E1E1;
+  --card-bg: #3D3D3D;
+
+  --color-fire: #E4604D;
+  --color-grass: #9DD465;
+  --color-electric: #F9E45F;
+  --color-water: #6A83D6;
+  --color-ground: #E4C967;
+  --color-rock: #CABB7B;
+  --color-fairy: #EEB2FA;
+  --color-poison: #9F619D;
+  --color-bug: #C5CF4A;
+  --color-dragon: #857AF7;
+  --color-psychic: #E56EAF;
+  --color-flying: #80A4F9;
+  --color-fighting: #9B5A48;
+  --color-normal: #BAB8AB;
+}
+
+.bg-fire {
+  background: linear-gradient(to top right, var(--color-fire), var(--card-bg) 25%);
+}
+.fire {
+  background-color: var(--color-fire);
+}
+
+.bg-grass {
+  background: linear-gradient(to top right, var(--color-grass), var(--card-bg) 25%);
+}
+.grass {
+  background-color: var(--color-grass);
+}
+
+.bg-electric {
+  background: linear-gradient(to top right, var(--color-electric), var(--card-bg) 25%);
+}
+.electric {
+  background-color: var(--color-electric);
+}
+
+.bg-water {
+  background: linear-gradient(to top right, var(--color-water), var(--card-bg) 25%);
+}
+.water {
+  background-color: var(--color-water);
+}
+
+.bg-ground {
+  background: linear-gradient(to top right, var(--color-ground), var(--card-bg) 25%);
+}
+.ground {
+  background-color: var(--color-ground);
+}
+
+.bg-rock {
+  background: linear-gradient(to top right, var(--color-rock), var(--card-bg) 25%);
+}
+.rock {
+  background-color: var(--color-rock);
+}
+
+.bg-fairy {
+  background: linear-gradient(to top right, var(--color-fairy), var(--card-bg) 25%);
+}
+.fairy {
+  background-color: var(--color-fairy);
+}
+
+.bg-poison {
+  background: linear-gradient(to top right, var(--color-poison), var(--card-bg) 25%);
+}
+.poison {
+  background-color: var(--color-poison);
+}
+
+.bg-bug {
+  background: linear-gradient(to top right, var(--color-bug), var(--card-bg) 25%);
+}
+.bug {
+  background-color: var(--color-bug);
+}
+
+.bg-dragon {
+  background: linear-gradient(to top right, var(--color-dragon), var(--card-bg) 25%);
+}
+.dragon {
+  background-color: var(--color-dragon);
+}
+
+.bg-psychic {
+  background: linear-gradient(to top right, var(--color-psychic), var(--card-bg) 25%);
+}
+.psychic {
+  background-color: var(--color-psychic);
+}
+
+.bg-flying {
+  background: linear-gradient(to top right, var(--color-flying), var(--card-bg) 25%);
+}
+.flying {
+  background-color: var(--color-flying);
+}
+
+.bg-fighting {
+  background: linear-gradient(to top right, var(--color-fighting), var(--card-bg) 25%);
+}
+.fighting {
+  background-color: var(--color-fighting);
+}
+
+.bg-normal {
+  background: linear-gradient(to top right, var(--color-normal), var(--card-bg) 25%);
+}
+.normal {
+  background-color: var(--color-normal);
+}
